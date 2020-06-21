@@ -11,7 +11,7 @@ layout: default
         <div class="contaniner__inner-box">
           <div class="row grid">
             {% if site.posts.size > 0 %}
-              {% for post in paginator.posts %}
+              {% for post in site.categories.project %}
                 {% include article-content.html %}
               {% endfor %}
             {% endif %}
