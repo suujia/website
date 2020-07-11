@@ -53,8 +53,8 @@ google-analytics: # Add your identifier. For example UA-99631805-1.
 # Newsletter
 mailchimp: true # To enable the mailchimp form, use the value true. To turn off use the value false.
 mailchimp-text: Newsletter for my new essays and interesting things I learn. # Add your description.
-mailchimp-identifier: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
-
+mailchimp-identifier: https://icloud.us3.list-manage.com/subscribe/post?u=4824df66524de785bff728af1&amp;id=ccac7c0620
+# Direct Link to Form: http://eepurl.com/g95Uhz
 
 #-------------------------------
 # Build settings
