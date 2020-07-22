@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  The only true wisdom is knowing that you know nothing
+title:  Sample Blog Post
 date:   2018-04-24 15:01:35 +0300
 image:  '/images/39.jpg'
 tags:   [Desert, Work]
