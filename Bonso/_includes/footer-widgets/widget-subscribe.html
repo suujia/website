@@ -8,13 +8,17 @@
     <p class="subscribe-subtitle">{{site.mailchimp-text}}</p>
     {% endif %}
     <form class="subscribe-form validate"
-      action="{% if site.mailchimp-identifier %}//{{site.mailchimp-identifier}}{% else %}#{% endif %}" method="POST"
+      action="https://icloud.us3.list-manage.com/subscribe/post?u=4824df66524de785bff728af1&amp;id=ccac7c0620" method="POST"
       id="membedded-subscribe-form" name="membedded-subscribe-form" target="_blank" novalidate>
       <div class="subscribe-group">
         <div class="subscribe-group-top">
           <label class="screen-reader-text" for="mce-EMAIL">Email address</label>
-          <input class="subscribe-email required email" id="mce-EMAIL" type="text" name="EMAIL"
+          <input class="subscribe-email required email" id="mce-EMAIL" type="email" name="EMAIL"
             placeholder="Email Address">
+            <div id="mce-responses" class="clear">
+              <div class="response" id="mce-error-response" style="display:none"></div>
+              <div class="response" id="mce-success-response" style="display:none"></div>
+            </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
           <button class="subscribe-button button button--primary" id="membedded-subscribe" type="submit"
             name="subscribe">Subscribe</button>
         </div>

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 current directory: /Users/soosie/Desktop/website/vendor/bundle/ruby/2.6.0/gems/sassc-2.4.0/ext
 /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20200621-44443-1hpzsjx.rb extconf.rb
 creating Makefile
@@ -6,6 +7,16 @@ current directory: /Users/soosie/Desktop/website/vendor/bundle/ruby/2.6.0/gems/s
 make "DESTDIR=" clean
 
 current directory: /Users/soosie/Desktop/website/vendor/bundle/ruby/2.6.0/gems/sassc-2.4.0/ext
+=======
+current directory: /Users/susiechen/website/vendor/bundle/ruby/2.6.0/gems/sassc-2.4.0/ext
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20200711-2049-fnqlaw.rb extconf.rb
+creating Makefile
+
+current directory: /Users/susiechen/website/vendor/bundle/ruby/2.6.0/gems/sassc-2.4.0/ext
+make "DESTDIR=" clean
+
+current directory: /Users/susiechen/website/vendor/bundle/ruby/2.6.0/gems/sassc-2.4.0/ext
+>>>>>>> 8f79bfc753ac14956e25916b09f017b2dcec55b9
 make "DESTDIR="
 compiling ./libsass/src/ast.cpp
 compiling ./libsass/src/ast2c.cpp
@@ -76,6 +87,12 @@ compiling ./libsass/src/values.cpp
 linking shared-object sassc/libsass.bundle
 ld: warning: directory not found for option '-L/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.Internal.sdk/usr/local/lib'
 
+<<<<<<< HEAD
 current directory: /Users/soosie/Desktop/website/vendor/bundle/ruby/2.6.0/gems/sassc-2.4.0/ext
 make "DESTDIR=" install
 /usr/bin/install -c -m 0755 libsass.bundle ./.gem.20200621-44443-ex1wk8/sassc
+=======
+current directory: /Users/susiechen/website/vendor/bundle/ruby/2.6.0/gems/sassc-2.4.0/ext
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 libsass.bundle ./.gem.20200711-2049-pmdedt/sassc
+>>>>>>> 8f79bfc753ac14956e25916b09f017b2dcec55b9

@@ -12,9 +12,15 @@ NULLCMD = :
 #### Start of system configuration section. ####
 
 srcdir = .
+<<<<<<< HEAD
 topdir = /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0
 hdrdir = $(topdir)
 arch_hdrdir = /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/universal-darwin19
+=======
+topdir = /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0
+hdrdir = $(topdir)
+arch_hdrdir = /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/universal-darwin19
+>>>>>>> 8f79bfc753ac14956e25916b09f017b2dcec55b9
 PATH_SEPARATOR = :
 VPATH = $(srcdir):$(arch_hdrdir)/ruby:$(hdrdir)/ruby
 prefix = $(DESTDIR)/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr
@@ -31,8 +37,13 @@ rubyhdrdir = $(includedir)/$(RUBY_VERSION_NAME)
 vendorarchdir = $(vendorlibdir)/$(sitearch)
 vendorlibdir = $(vendordir)/$(ruby_version)
 vendordir = $(rubylibprefix)/vendor_ruby
+<<<<<<< HEAD
 sitearchdir = $(DESTDIR)./.gem.20200621-44443-1iko2wc
 sitelibdir = $(DESTDIR)./.gem.20200621-44443-1iko2wc
+=======
+sitearchdir = $(DESTDIR)./.gem.20200711-2049-14490fh
+sitelibdir = $(DESTDIR)./.gem.20200711-2049-14490fh
+>>>>>>> 8f79bfc753ac14956e25916b09f017b2dcec55b9
 sitedir = $(DESTDIR)/Library/Ruby/Site
 rubyarchdir = $(rubylibdir)/$(arch)
 rubylibdir = $(rubylibprefix)/$(ruby_version)
@@ -51,7 +62,11 @@ htmldir = $(docdir)
 infodir = $(DESTDIR)/usr/share/info
 docdir = $(datarootdir)/doc/$(PACKAGE)
 oldincludedir = $(DESTDIR)/usr/include
+<<<<<<< HEAD
 includedir = $(DESTDIR)/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk$(prefix)/include
+=======
+includedir = $(DESTDIR)/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk$(prefix)/include
+>>>>>>> 8f79bfc753ac14956e25916b09f017b2dcec55b9
 localstatedir = $(prefix)/var
 sharedstatedir = $(prefix)/com
 sysconfdir = $(DESTDIR)/Library/Ruby/Site

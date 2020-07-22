@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 current directory: /Users/soosie/Desktop/website/vendor/bundle/ruby/2.6.0/gems/ffi-1.13.1/ext/ffi_c
 /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20200621-44443-9rp2uw.rb extconf.rb
+=======
+current directory: /Users/susiechen/website/vendor/bundle/ruby/2.6.0/gems/ffi-1.13.1/ext/ffi_c
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20200711-2049-1tlpdc4.rb extconf.rb
+>>>>>>> 8f79bfc753ac14956e25916b09f017b2dcec55b9
 checking for ffi.h... no
 checking for ffi.h in /usr/local/include,/usr/include/ffi,/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/ffi,/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/ffi... yes
 checking for ffi_prep_closure_loc() in -lffi... yes
@@ -9,10 +14,17 @@ checking for ffi_prep_raw_closure()... yes
 creating extconf.h
 creating Makefile
 
+<<<<<<< HEAD
 current directory: /Users/soosie/Desktop/website/vendor/bundle/ruby/2.6.0/gems/ffi-1.13.1/ext/ffi_c
 make "DESTDIR=" clean
 
 current directory: /Users/soosie/Desktop/website/vendor/bundle/ruby/2.6.0/gems/ffi-1.13.1/ext/ffi_c
+=======
+current directory: /Users/susiechen/website/vendor/bundle/ruby/2.6.0/gems/ffi-1.13.1/ext/ffi_c
+make "DESTDIR=" clean
+
+current directory: /Users/susiechen/website/vendor/bundle/ruby/2.6.0/gems/ffi-1.13.1/ext/ffi_c
+>>>>>>> 8f79bfc753ac14956e25916b09f017b2dcec55b9
 make "DESTDIR="
 compiling AbstractMemory.c
 compiling ArrayType.c
@@ -40,6 +52,12 @@ compiling ffi.c
 linking shared-object ffi_c.bundle
 ld: warning: directory not found for option '-L/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.Internal.sdk/usr/local/lib'
 
+<<<<<<< HEAD
 current directory: /Users/soosie/Desktop/website/vendor/bundle/ruby/2.6.0/gems/ffi-1.13.1/ext/ffi_c
 make "DESTDIR=" install
 /usr/bin/install -c -m 0755 ffi_c.bundle ./.gem.20200621-44443-1iko2wc
+=======
+current directory: /Users/susiechen/website/vendor/bundle/ruby/2.6.0/gems/ffi-1.13.1/ext/ffi_c
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 ffi_c.bundle ./.gem.20200711-2049-14490fh
+>>>>>>> 8f79bfc753ac14956e25916b09f017b2dcec55b9
