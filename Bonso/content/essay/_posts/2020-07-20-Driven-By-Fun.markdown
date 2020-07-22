@@ -2,7 +2,7 @@
 layout: post
 title:  Driven by Fun
 date:   2018-10-29 15:01:35 +0300
-image:  '/images/35.jpg'
+image:  '/images/tennis.jpeg'
 tags:   [Productivity, Projects, Work]
 featured: true
 ---
