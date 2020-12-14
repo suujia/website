@@ -4,7 +4,7 @@ title:  Driven by Fun
 date:   2020-07-20 15:01:35 +0300
 image:  '/images/tennis.jpeg'
 tags:   [Productivity, Projects, Work]
-featured: false
+featured:
 ---
 
 What drives the passion in someone to obsess over their work?
