@@ -1,8 +1,11 @@
 ---
 layout: default
+title: Me
+permalink: /me/
 ---
-
-{% include hero.html %}
+<div class="page-head">
+  <h1 class="page-title">{{ page.title | escape }}</h1>
+</div>
 <div class="container">
   <div class="row">
     <div class="col col-12">
@@ -10,7 +13,7 @@ layout: default
         <div class="contaniner__inner-box">
           <div class="row grid">
             {% if site.posts.size > 0 %}
-              {% for post in site.categories.project %}
+              {% for post in paginator.posts %}
                 {% include article-content.html %}
               {% endfor %}
             {% endif %}

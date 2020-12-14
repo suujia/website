@@ -1,48 +1,48 @@
 [
   
     {
-      "title"    : "It is never too late to be what you might have been",
+      "title"    : "First Album",
       "category" : "",
-      "tags"     : "Dreams and Desert",
-      "url"      : "/It-is-never-too-late-to-be-what-you-might-have-been",
-      "date"     : "Oct 29, 2018",
-      "image": "/images/35.jpg"
+      "tags"     : "Music",
+      "url"      : "/First-Album",
+      "date"     : "Dec 13, 2020",
+      "image": "/images/album.jpg"
     } ,
   
     {
-      "title"    : "It is never too late to be what you might have been",
+      "title"    : "Proximity",
       "category" : "",
-      "tags"     : "Dreams and Desert",
-      "url"      : "/It-is-never-too-late-to-be-what-you-might-have-been-copy",
-      "date"     : "Oct 29, 2018",
-      "image": "/images/35.jpg"
+      "tags"     : "Productivity and Projects",
+      "url"      : "/App",
+      "date"     : "Dec 13, 2020",
+      "image": "/images/app.jpeg"
     } ,
   
     {
-      "title"    : "Remember that happiness is a way of travel, not a destination",
+      "title"    : "50 Therapy Sessions Later",
       "category" : "",
-      "tags"     : "Travel and Desert",
-      "url"      : "/Remember-that-happiness-is-a-way-of-travel-not-a-destination1",
-      "date"     : "Apr 24, 2018",
-      "image": "/images/37.jpg"
+      "tags"     : "Mental Health and Self Improvement",
+      "url"      : "/50-Therapy-Sessions-Later-copy",
+      "date"     : "Dec 13, 2020",
+      "image": "/images/sunset.jpeg"
     } ,
   
     {
-      "title"    : "Remember that happiness is a way of travel, not a destination",
+      "title"    : "Driven by Fun",
       "category" : "",
-      "tags"     : "Travel and Desert",
-      "url"      : "/Remember-that-happiness-is-a-way-of-travel-not-a-destination",
-      "date"     : "Apr 24, 2018",
-      "image": "/images/37.jpg"
+      "tags"     : "Productivity, Projects, and Work",
+      "url"      : "/Driven-By-Fun",
+      "date"     : "Jul 20, 2020",
+      "image": "/images/tennis.jpeg"
     } ,
   
     {
-      "title"    : "The only true wisdom is knowing that you know nothing",
+      "title"    : "ADHD or Sleep Deprivation?",
       "category" : "",
-      "tags"     : "Desert and Work",
-      "url"      : "/The-only-true-wisdom-is-knowing-that-you-know-nothing",
-      "date"     : "Apr 24, 2018",
-      "image": "/images/39.jpg"
+      "tags"     : "Health, Productivity, Mental Health, and Sleep",
+      "url"      : "/ADHD-Or-Sleep-Deprivation",
+      "date"     : "Jul 20, 2020",
+      "image": "/images/sleep.jpg"
     } 
   
 ]
