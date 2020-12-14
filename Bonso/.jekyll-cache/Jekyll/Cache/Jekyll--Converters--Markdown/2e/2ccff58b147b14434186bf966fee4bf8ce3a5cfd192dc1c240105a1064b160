@@ -1,0 +1,36 @@
+I"3<h1 id="my-favourite-books">My Favourite Books</h1>
+
+<ol>
+  <li>
+    <p>When Breath Becomes Air</p>
+  </li>
+  <li>
+    <p>The Hard Thing About Hard Things</p>
+  </li>
+  <li>
+    <p>Shoedog</p>
+  </li>
+</ol>
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/56.jpg" />
+    <img src="/images/53.jpg" />
+    <img src="/images/63.jpg" />
+  </div>
+</div>
+
+<h2 id="quotes">Quotes</h2>
+
+<blockquote>
+  <p>The secret to accomplishing impressive things: Do not give yourself a way out. Either you do it, or you don’t and you should keep working at it.</p>
+
+  <p><cite>Alexandr Wang</cite></p>
+</blockquote>
+
+<blockquote>
+  <p>“Most of us have two lives. The life we live, and the unlived life within us. Between the two stands Resistance.”</p>
+
+  <p><cite>Steven Pressfield</cite></p>
+</blockquote>
+:ET
