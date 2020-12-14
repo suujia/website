@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  ADHD or Sleep Deprivation?
-date:   2018-04-24 15:01:35 +0300
+date:   2020-07-20 15:01:35 +0300
 image:  '/images/sleep.jpg'
-tags:   [Health, Productivity]
+tags:   [Health, Productivity, Mental Health]
 featured:
 ---
 Lack of sleep antagonizes your day to you. You're feeling like hell, getting up after snoozing the alarm 5 times. It gets you to dread work. It’s what makes you countdown the hours to leave work, as you imagine the softness of your bed and the coziness of your blankets. Lack of sleep is what makes you unable to get quality work out in a full workday, leaving you feeling guilty and anxious.
