@@ -6,30 +6,32 @@ image:  '/images/sleep.jpg'
 tags:   [Health, Productivity, Mental Health, Sleep]
 featured:
 ---
-Lack of sleep antagonizes you with your day. You’re feeling like hell, getting up after snoozing the alarm 5 times. The world feels foggy. It gets you to dread work. You’re looking for your keys and phone for the fifth time this week. It’s what makes you count down the hours to leave the office, as you crave the softness of your bed and the coziness of your blankets. It makes you unable to get quality work out in a full workday, leaving you feeling guilty and anxious. You think to yourself: you are not made for the 9-5.
+Lack of sleep can antagonize you throughout the day. You’re feeling like hell, getting up after snoozing the alarm 5 times. The world feels foggy. It gets you to dread work. You’re looking for your keys and phone for the fifth time this week. It’s what makes you count down the hours to leave the office, as you crave the softness of your bed and the coziness of your blankets. It makes you unable to get quality work out in a full workday, leaving you feeling guilty and anxious. You think to yourself: you are not made for the 9-5.
 
-Not having enough sleep makes you zone out in the lecture. “What did the professor just say?”, “Wait, why are people laughing?” The fatigue forces a 2-minute attention span. You wonder if you have ADHD.” You’ve lost the context of what the professor is saying. You decide to browse Reddit for the remainder of the class. You think about what you’re going to eat for dinner. “Why don't I have a boyfriend?”
+Not having enough sleep makes you zone out in the lecture. “What did the professor just say?” “Wait, why are people laughing?” The fatigue forces a 2-minute attention span. You wonder if you have ADHD. You’ve lost the context of what the professor is saying. You decide to browse Reddit for the remainder of the class. You think about what you’re going to eat for dinner. “Why don’t I have a boyfriend?”
 
-Not having enough sleep removes the warm blanket over your emotions that makes things seem a bit brighter. You weaken or lose your ability for emotional management. Negative events are felt more intensely. Evening comes, you open your books but within 5 minutes, the stress forces you down a rabbit hole of YouTube videos that run until the end of your night.
+Not having enough sleep removes the warm blanket over your emotions that makes things seem a bit brighter. You weaken or lose your ability for emotional management. Negative events are felt more intensely. Evening comes, you open your books but within 5 minutes, the stress forces you down a rabbit hole of YouTube videos that run on until the end of your night.
 
-You stay up to force some productivity. You dance on the edge of deadlines. It’s this staying up that perpetuates another day in the cycle of sleep deprivation. You make mistakes because you can’t see the details.
+You stay up to force some productivity. You dance on the edge of deadlines. It’s this staying up that perpetuates another day into the cycle of sleep deprivation. You make mistakes because you can’t see the details.
 
-A couple of weeks has gone by, you feel and look like hell. A couple of months go by, you're barely managing anything in your life properly now. You’re in a perpetual cycle of putting out the alarms of impending deadlines in your life, you’re permanently fatigued and lack focus. You just don’t seem to have the time and energy to get a lot of things you want to be done, done. You’ve been drinking more coffee than ever, and even late into the evening to ensure you stay up and do all the things you didn’t do in the day. Your face is covered in acne now.
+A couple of weeks has gone by, you feel and look like hell. A couple of months go by, you’re barely managing anything in your life properly now. You’re in a perpetual cycle of putting out the alarms of impending deadlines in your life, you’re permanently fatigued and lack focus. You just don’t seem to have the time and energy to get a lot of things you want to be done, done. You’ve been drinking more coffee than ever, and even late into the evening to ensure you stay up and do all the things that you didn’t get to in the day. Your face is covered in acne now from the lack of sleep.
 
-You get into reading a bunch of self-development and productivity books because a bit of motivation is what you need. You just lacked grit and extreme ownership over your circumstances. You take your newfound knowledge, excited, heart pumping, and you just cram two full days of massive productivity from drinking coffee for the first time after quitting again. How do people comfortably manage all these classes, extracurriculars, and social life?
+
+You get into reading a bunch of self-development and productivity books because a bit of motivation is what you need. It turns out you were only lacking grit and ownership over your own circumstances. You take your newfound knowledge, excited, heart pumping, and you cram two full days of massive productivity while drinking coffee for the first time after quitting again. How do people comfortably tend to all their classes, extracurriculars, and social life?
 
 If you relate to this, it’s time to shake up your routine. Here are some tips to avoid repeating the vicious cycle of sleep deprivation.
 
 ### Way to sleep better
 
-1. Live somewhere quiet, noise makes it harder to fall asleep and may wake you up many times throughout the night.
-2. Darken the room. Once you go dark you can’t go back. It allows night owls to sleep in and get enough sleep because it prevents getting woken up prematurely in the morning when the sun makes it in your room. And it is easier to fall asleep. Install blackout curtains or an eye mask;
-3. Temperature. Don’t overheat, it causes nightmares. 70°F (20°C) seems to be the most comfortable for most people. This varies of course between person, blanket thickness, and choice of pyjamas;
-4. Exercise during the day helps you fall asleep much faster;
-5. Calm. Have a wind-down activity before bed like playing the piano, reading, taking a bath, or journaling. Listen to meditation before sleeping if you’re feeling negative emotions or want to quiet the mind;
-6. Don’t consume caffeine in the afternoon;
-7. Don’t eat, nap, or exercise late in the evening;
-8. Have a regular schedule. This will help to fall asleep quicker and ensure you’re not fatigued in the morning. It also offers better long term health outcomes due to regulating circadian rhythm;
-9. Having a cue for when it’s bedtime. Like a bedtime routine of a warm shower, unwinding, reading in bed, etc. This shortens the amount of time it takes to fall asleep.
-10. Oxygen. This is just good for your health in general to have high oxygen saturation in your blood. Ensure there is circulation of air from vents or a cracked open window will ensure it. Sleep apnea is when you have obstructed breathing and you don't get enough oxygen when you sleep. The most common treatment is a CPAP machine that is a mask you put on when you sleep to aid breathing. If you often feel daytime sleepiness or have loud snoring, then it is good to get checked. "It is now estimated that 26 percent of adults between the ages of 30 and 70 years have sleep apnea," ([Source](https://aasm.org/rising-prevalence-of-sleep-apnea-in-u-s-threatens-public-health/#:~:text=It%20is%20now%20estimated%20that,70%20years%20have%20sleep%20apnea.)).
+1. Live somewhere quiet. Noise makes it harder to fall asleep and may wake you up many times throughout the night.
+2. Darken the room. Once you go dark you can’t go back. It allows night owls to sleep in and get enough sleep because it prevents getting woken up prematurely in the morning when the sun makes it into your room. Not to mention that it is easier to fall asleep. Install blackout curtains or an eye mask.
+3. Temperature: don’t overheat, it causes nightmares. 70°F (20°C) seems to be the most comfortable for most people. This varies of course between person, blanket thickness, and choice of pajamas.
+4. Exercise during the day helps you fall asleep much faster.
+5. Pursue a state of calmness. Have a wind-down activity before bed like playing the piano, reading, taking a bath, or journaling. Listen to meditation before sleeping if you’re feeling negative emotions or want to quiet the mind.
+6. Don’t consume caffeine in the afternoon.
+7. Don’t eat, nap, or exercise late into the evening.
+8. Have a regular schedule. This will help to fall asleep quicker and ensure that you’re not fatigued in the morning. It also offers better long term health outcomes due to regulating circadian rhythm.
+9. Have a cue for when it’s bedtime. For example a bedtime routine of a warm shower, unwinding, reading in bed, etc. This shortens the amount of time it takes to fall asleep.
+10. Seek out adequate room oxygen levels. This is good for your health in general to maintain sufficient oxygen saturation in your blood. Ensure that there is circulation of air from vents or a cracked open window. Sleep apnea is when you have obstructed breathing and you don’t get enough oxygen when you sleep. The most common treatment is a CPAP machine, a mask you put on when you sleep to aid in breathing. If you often feel daytime sleepiness or have loud snoring, then it is good to get checked. “It is now estimated that 26 percent of adults between the ages of 30 and 70 years have sleep apnea.”
+([Source](https://aasm.org/rising-prevalence-of-sleep-apnea-in-u-s-threatens-public-health/#:~:text=It%20is%20now%20estimated%20that,70%20years%20have%20sleep%20apnea.)).
 
