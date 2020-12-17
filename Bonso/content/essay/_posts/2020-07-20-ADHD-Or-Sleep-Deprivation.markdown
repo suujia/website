@@ -8,7 +8,7 @@ featured:
 ---
 Lack of sleep antagonizes you with your day. You’re feeling like hell, getting up after snoozing the alarm 5 times. The world feels foggy. It gets you to dread work. You’re looking for your keys and phone for the fifth time this week. It’s what makes you count down the hours to leave the office, as you crave the softness of your bed and the coziness of your blankets. It makes you unable to get quality work out in a full workday, leaving you feeling guilty and anxious. You think to yourself: you are not made for the 9-5.
 
-Not having enough sleep makes you zone out in the lecture. “What did the professor just say?”, “Wait, why are people laughing?” The fatigue forces a 2-minute attention span. You wonder if you have ADHD.” You’ve lost the context of what the professor is saying. You decide to browse Reddit for the remainder of the class. You think about what you’re going to eat for dinner. “Why do I still have no boyfriend?”
+Not having enough sleep makes you zone out in the lecture. “What did the professor just say?”, “Wait, why are people laughing?” The fatigue forces a 2-minute attention span. You wonder if you have ADHD.” You’ve lost the context of what the professor is saying. You decide to browse Reddit for the remainder of the class. You think about what you’re going to eat for dinner. “Why don't I have a boyfriend?”
 
 Not having enough sleep removes the warm blanket over your emotions that makes things seem a bit brighter. You weaken or lose your ability for emotional management. Negative events are felt more intensely. Evening comes, you open your books but within 5 minutes, the stress forces you down a rabbit hole of YouTube videos that run until the end of your night.
 
