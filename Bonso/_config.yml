@@ -2,7 +2,7 @@
 # General Site Settings
 title: soosie
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Hi, my name is Susie Chen. I’m a programmer by day, and a writer and singer by night. I'm obsessed with trying new things and pursuing creative projects.
+description: Hi, I'm Susie Chen, a programmer by day and a writer + singer by night. I love trying new things and pursuing creative projects.
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "" # The base hostname & protocol for your site, e.g. http://example.com
 
@@ -52,7 +52,7 @@ google-analytics: # Add your identifier. For example UA-99631805-1.
 #-------------------------------
 # Newsletter
 mailchimp: true # To enable the mailchimp form, use the value true. To turn off use the value false.
-mailchimp-text: Newsletter for my new essays and interesting things I learn. # Add your description.
+mailchimp-text: Subscribe to receive useful learnings, things I find interesting, and follow my creative projects: https://susiechen.substack.com/
 mailchimp-identifier: https://icloud.us3.list-manage.com/subscribe/post?u=4824df66524de785bff728af1&amp;id=ccac7c0620
 # Direct Link to Form: http://eepurl.com/g95Uhz
 
