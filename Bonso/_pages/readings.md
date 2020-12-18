@@ -32,9 +32,6 @@ permalink: /readings/
 * The Intelligent Investor
 * How to Win Friends and Influence People
 * Made in America (Sam Walton)
-* The Fault in Our Stars
-* Paper Towns
-* Extremely Loud & Incredibly Close
 * Life of Pi
 
 
@@ -44,9 +41,3 @@ permalink: /readings/
 > The secret to accomplishing impressive things: Do not give yourself a way out. Either you do it, or you don't and you should keep working at it.
 >
 > <cite>Alexandr Wang</cite>
-
-
-
-> “Most of us have two lives. The life we live, and the unlived life within us. Between the two stands Resistance.”
->
-> <cite>Steven Pressfield</cite>

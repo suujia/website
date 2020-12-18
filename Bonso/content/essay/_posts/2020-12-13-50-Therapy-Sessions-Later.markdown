@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 50 Therapy Sessions Later
-date:  2020-12-13 15:01:35 +0300
+date:  2020-12-14 15:01:35 +0300
 image:  '/images/sunset.jpeg'
 tags:   [Mental Health, Self Improvement]
 featured: true
 ---
 Due to a belief that one has a full potential that they can reach, I have always been open-minded to opportunities that can help me improve as a person. Naturally, I was curious about how much a person can grow from therapy. I thought that there probably wouldn’t be that much to talk about and that I’d just try a couple sessions to see what it’s like; somehow I filled every session that I've attended with my thoughts. 
 
-That got me thinking that I wanted to get to know myself better as well. I wanted to explore how past experiences in my life impact who I am today; how it affects my perception of myself and how I interact with the world and others. What if my beliefs held me back? What if my lens of the world was distorted? What if my negative emotions overtook me and ruined my relationships? What if I didn’t become the best person that I could have been? 
+That got me thinking that I wanted to get to know myself better as well. I wanted to explore how past experiences in my life impact who I am today; how it affects my perception of myself and how I interact with the world and others. What if my beliefs held me back? What if my lens of the world was distorted? What if my negative emotions overtook me and ruined my relationships? What if I didn’t become the best person that I could have been?
 
 A year later, I’ve found myself more at peace than I’ve ever been. I believe taking time out to reflect on how we are shaped is crucial to becoming who we want to be.  Is there a disconnection between what you do now what you want? What is your trajectory? Getting a second opinion on the way you think about relationships, self, and life, will get you closer to where you want to be, while maintaining a  healthy mindset along the way.
 
