@@ -1,6 +1,24 @@
 [
   
     {
+      "title"    : "On Procrastination",
+      "category" : "",
+      "tags"     : "Productivity and Self Improvement",
+      "url"      : "/On-Procrastination",
+      "date"     : "Dec 17, 2020",
+      "image": "/images/work.jpeg"
+    } ,
+  
+    {
+      "title"    : "50 Therapy Sessions Later",
+      "category" : "",
+      "tags"     : "Mental Health and Self Improvement",
+      "url"      : "/50-Therapy-Sessions-Later",
+      "date"     : "Dec 14, 2020",
+      "image": "/images/sunset.jpeg"
+    } ,
+  
+    {
       "title"    : "First Album",
       "category" : "",
       "tags"     : "Music",
@@ -10,30 +28,12 @@
     } ,
   
     {
-      "title"    : "Proximity",
+      "title"    : "Apps (WIP)",
       "category" : "",
       "tags"     : "Productivity and Projects",
       "url"      : "/App",
       "date"     : "Dec 13, 2020",
       "image": "/images/app.jpeg"
-    } ,
-  
-    {
-      "title"    : "50 Therapy Sessions Later",
-      "category" : "",
-      "tags"     : "Mental Health and Self Improvement",
-      "url"      : "/50-Therapy-Sessions-Later-copy",
-      "date"     : "Dec 13, 2020",
-      "image": "/images/sunset.jpeg"
-    } ,
-  
-    {
-      "title"    : "Driven by Fun",
-      "category" : "",
-      "tags"     : "Productivity, Projects, and Work",
-      "url"      : "/Driven-By-Fun",
-      "date"     : "Jul 20, 2020",
-      "image": "/images/tennis.jpeg"
     } ,
   
     {
