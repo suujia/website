@@ -5,33 +5,45 @@ permalink: /readings/
 ---
 
 # Bookshelf
-### Books I've enjoyed or shaped me :)
+### Books I've enjoyed or have shaped me. Or both :)
 
+* The Ride of A Lifetime
 * The Messy Middle
 * Fountainhead
 * When Breath Becomes Air
 * The Hard Thing About Hard Things
 * Angel: How to Invest in Technology Startups (Relevant [post](https://calacanis.com/2020/03/27/now-is-the-best-time-to-be-an-angel-investor-let-me-show-you-how/) by author)
 * Trillion Dollar Coach
+* On the Shortness of Life
 * Shoe Dog
+* Mastery
 * To Live
 * Homos Deus
 * Deep Work
+* Principles
 * The Almanack of Naval Ravikant
 * 7 Habits of Highly Effective People
 * 4 Hour Work Week
+* Unshakeable
+* Awaken the Giant Within
 * The Art of War
 * Man's Search for Meaning
+* Love Market: The Economics of Sex and Love
 * Elon Musk
 * Steven Jobs
 * Outliers
+* Freakonomics
+* The Lean Startup
 * The Power of Now
 * Essentialism
 * Zero to One
 * Lean In
+* Pride and Prejudice
 * The Intelligent Investor
 * How to Win Friends and Influence People
 * Made in America (Sam Walton)
+* Eat, Pray, Love
+* The Faults in our Stars
 * Life of Pi
 
 
