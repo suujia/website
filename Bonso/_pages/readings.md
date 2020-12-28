@@ -54,8 +54,8 @@ permalink: /readings/
 
 ## My Favourite Articles
 
-[Optionality](https://www.thecrimson.com/article/2017/5/25/desai-commencement-ed/) - on optimizing for optionality vs committing
-[10X: Metrics for Early Stage Startups](https://dcgross.com/10X/) - mini playbook on getting products from 0 to 1
+* [Optionality](https://www.thecrimson.com/article/2017/5/25/desai-commencement-ed/) - on optimizing for optionality vs committing
+* [10X: Metrics for Early Stage Startups](https://dcgross.com/10X/) - mini playbook on getting products from 0 to 1
 
 ## Quotes
 
