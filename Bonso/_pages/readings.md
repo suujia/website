@@ -57,6 +57,13 @@ permalink: /readings/
 * [Optionality](https://www.thecrimson.com/article/2017/5/25/desai-commencement-ed/) - on optimizing for optionality vs committing
 * [10X: Metrics for Early Stage Startups](https://dcgross.com/10X/) - mini playbook on getting products from 0 to 1
 
+
+## Podcasts
+* Venture Stories
+* YCombinator
+* How I Built This
+* Tech Buzz China
+
 ## Quotes
 
 > The secret to accomplishing impressive things: Do not give yourself a way out. Either you do it, or you don't and you should keep working at it.
