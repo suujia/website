@@ -54,15 +54,16 @@ permalink: /readings/
 
 ## My Favourite Articles
 
-* [Optionality](https://www.thecrimson.com/article/2017/5/25/desai-commencement-ed/) - on optimizing for optionality vs committing
-* [10X: Metrics for Early Stage Startups](https://dcgross.com/10X/) - mini playbook on getting products from 0 to 1
-
+- [Optionality](https://www.thecrimson.com/article/2017/5/25/desai-commencement-ed/) - on optimizing for optionality vs committing
+- [10X: Metrics for Early Stage Startups](https://dcgross.com/10X/) - mini playbook on getting products from 0 to 1
+- [The Perfect Decision Fallacy](https://www.trevormckendrick.com/essays/the-perfect-decision-fallacy) - on making big decisions or reaching big goals (secret: it's a series of small decisions along the way and there are very many ways to get there)
 
 ## Podcasts
-* Venture Stories
-* YCombinator
-* How I Built This
-* Tech Buzz China
+
+- Venture Stories
+- YCombinator
+- How I Built This
+- Tech Buzz China
 
 ## Quotes
 
