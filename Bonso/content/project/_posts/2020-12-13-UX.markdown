@@ -1,0 +1,10 @@
+---
+layout: post
+title: UX Designs
+date: 2020-12-13 15:01:35 +0300
+image: "/images/app.jpeg"
+tags: [Productivity, Projects]
+featured:
+---
+
+I work on React Native/React apps + NodeJS backends usually.

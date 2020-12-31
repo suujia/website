@@ -1,3 +1,4 @@
+---
 #-------------------------------
 # General Site Settings
 title: soosie
@@ -6,28 +7,28 @@ description: Hi, I'm Susie Chen, a programmer by day and a writer + singer by ni
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "" # The base hostname & protocol for your site, e.g. http://example.com
 
-
 #-------------------------------
 # Author Settings
 author:
-  avatar: '/images/01.jpg'
+  avatar: "/images/01.jpg"
   name: Susie Chen
   job: coding, writing, singing
 
 social:
-- {icon: "ion-logo-twitter", link: "https://twitter.com/soosiesays"}
-- {icon: "ion-ios-mail", link: "mailto:suujia@icloud.com"}
-- {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/susiechen01/"}
-- {icon: "ion ion-logo-github", link: "https://github.com/suujia/"}
+  - { icon: "ion-logo-twitter", link: "https://twitter.com/soosiesays" }
+  - { icon: "ion-ios-mail", link: "mailto:suujia@icloud.com" }
+  - {
+      icon: "ion-logo-linkedin",
+      link: "https://www.linkedin.com/in/susiechen01/",
+    }
+  - { icon: "ion ion-logo-github", link: "https://github.com/suujia/" }
 
 # Example of adding a new link to the author section and footer - {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
 # Other icons can be found at https://ionicons.com/v4/
 
-
 #-------------------------------
 # Featured Slider
 slider: # NOTE - By default, the slider is set to display featured posts. To add featured post to the slider, add the field, featured: true in the YAML front matter block. If you do not want to use the slider, leave the slider field empty.
-
 
 #-------------------------------
 # Contact Settings
@@ -38,16 +39,13 @@ contact:
 # NOTE
 # Bonso comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
 
-
 #-------------------------------
 # Comment Section (Disqus)
 disqus-identifier: soosie # Add your shortname for Disqus Comment. For example mr-brown
 
-
 #-------------------------------
 # Google Analytics
 google-analytics: G-GJVBLNLK7W
-
 
 #-------------------------------
 # Newsletter
@@ -71,7 +69,7 @@ paginate_path: "/page/:num"
 # Pages Path
 defaults:
   - scope:
-      path: '_pages'
+      path: "_pages"
     values:
       permalink: /:basename:output_ext
 
@@ -79,9 +77,9 @@ include:
   - _pages
 
 # Tags
-tag_page_dir:         tag
-tag_page_layout:      tag_page
-tag_permalink_style:  /:title
+tag_page_dir: tag
+tag_page_layout: tag_page
+tag_permalink_style: /:title
 
 sass:
   sass_dir: _sass

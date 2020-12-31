@@ -1,10 +1,19 @@
 [
   
     {
-      "title"    : "On Procrastination",
+      "title"    : "Fix the system, not the individual",
       "category" : "",
       "tags"     : "Productivity and Self Improvement",
       "url"      : "/On-Procrastination",
+      "date"     : "Dec 17, 2020",
+      "image": "/images/poker.jpg"
+    } ,
+  
+    {
+      "title"    : "On Procrastination",
+      "category" : "",
+      "tags"     : "Productivity and Self Improvement",
+      "url"      : "/On-Procrastination-copy",
       "date"     : "Dec 17, 2020",
       "image": "/images/work.jpeg"
     } ,
@@ -19,6 +28,15 @@
     } ,
   
     {
+      "title"    : "UX Designs",
+      "category" : "",
+      "tags"     : "Productivity and Projects",
+      "url"      : "/UX",
+      "date"     : "Dec 13, 2020",
+      "image": "/images/app.jpeg"
+    } ,
+  
+    {
       "title"    : "First Album",
       "category" : "",
       "tags"     : "Music",
@@ -28,7 +46,16 @@
     } ,
   
     {
-      "title"    : "Apps (WIP)",
+      "title"    : "Cactus",
+      "category" : "",
+      "tags"     : "Productivity and Projects",
+      "url"      : "/Cactus",
+      "date"     : "Dec 13, 2020",
+      "image": "/images/app.jpeg"
+    } ,
+  
+    {
+      "title"    : "Loyally",
       "category" : "",
       "tags"     : "Productivity and Projects",
       "url"      : "/App",
