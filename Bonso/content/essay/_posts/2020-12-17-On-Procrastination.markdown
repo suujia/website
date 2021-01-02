@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Fix the system, not the individual
+title: On Procrastination
 date: 2020-12-17 21:01:35 +0300
-image: "/images/poker.jpg"
+image: "/images/work.jpeg"
 tags: [Productivity, Self Improvement]
 featured: true
 ---
@@ -10,3 +10,38 @@ featured: true
 > “Most of us have two lives. The life we live, and the unlived life within us. Between the two stands Resistance.”
 >
 > <cite>Steven Pressfield</cite>
+
+I’ve struggled for it for a while, and therefore spent a while educating myself on this topic. Here are a few things that have helped me the most over the years.
+
+**1. Prioritize Top 3:** Determine 1-3 most important tasks for the day. Feel accomplished and decrease in stress after finishing these. Not getting an important tasks done in a day causes regret, negative self talk, anxiety, etc.
+
+**2. On cold starts:** figure out what is the first 5 minutes of a task. Tell yourself that you will only do that, then allowed to determine whether you’d like to continue or switch to something else. It can even be the act of setting up your space or desktop for the work you are going to do. This un-intimidating request eliminates one of the biggest problems: difficulty starting then putting things off. The same concept runs true for procrastination: “just 5 more minutes of YouTube” or “I’ll start tomorrow”. We never tell ourselves: “I will never write my book”.
+
+**3. Reward yourself:** after hard work: it could be relaxation, fun activity, material goods, delicious meal, etc. Make sure the reward comes after the work. Pushing yourself too hard for too long will lead to [burnout](https://www.helpguide.org/articles/stress/burnout-prevention-and-recovery.htm). In the long term, everyone is motivated by different things, figure out what it is that motivates you. Money, other people, ego, curiosity, mission/purpose, competition, fame, power, mastery, fears, etc are all powerful and common motivators.
+
+**4. Focus, Productivity, and Adequate Sleep:** there was a period of time where I tried to be Elon Musk and I didn't sleep very much and used coffee to prop me up. I ended up zoning out in class and conversations, dread whatever it is I have to do first thing in the morning because I hate waking up with an alarm, I get mad or upset easier, the fatigue made me watch a lot of Youtube, and finally I couldn't concentrate nor had nearly as much mental willpower to continue working on hard problems. Staying up late to finish my work perpetuates this cycle. This occured for an entire semester and I ended up with acne all over my face as well; needless to say it was my least functioning semester ever. Anywho, turns out I'm not built like Musk at all, as with most people. I've experimented and learned now that sleep helps me to be 10x more productive the next day: sustained focus, good mood, creativity, less social media time, and mental clarity. I've attached the tips on how to get good sleep below.
+
+**5. Break the procrastination habit cycle:** Talk to yourself like you would an employee, not a slave: motivating, kind, and fair. Here is the sequence of events that occurs with procrastination and without. Break the cycle and start being kinder to yourself.
+
+<img src="/../../images/do-it-now.png">
+> <cite>Screenshot from The Procrastination Workbook by William Knaus</cite>
+
+## Bonus
+
+**1. Adequate Long Term Planning:** I have a weekly Kanban board for the most important tasks for the week. Working only on tasks that matter in the long run, that move the needle, will propel you towards your dreams. When I don't prioritize, I tend to do a bunch of unimportant busywork.
+
+- Pre-requisite: [Long Term Planning](https://www.youtube.com/watch?v=5paYI2nCarc). This video is the planning system I use: setting a 10 year vision, breaking it down roughly what I have to do every year, breaking it down precisely further quarter by quarter, then by month, by week, then finally I know exactly what I have to do every single day. As long as I get my tasks completed in the granular scale, I know I am headed in the right direction. Of course, a lot of my aspirations are creative so some of the goals are just habits like: "write an hour a day". The future is hard to predict as well, so the granular can be planned closer to the date.
+
+**2. How to Sleep Well:**
+
+1. Live somewhere quiet. Noise makes it harder to fall asleep and may wake you up many times throughout the night.
+2. Darken the room. Once you go dark you can’t go back. It allows night owls to sleep in and get enough sleep because it prevents getting woken up prematurely in the morning when the sun makes it into your room. Not to mention that it is easier to fall asleep. Install blackout curtains or an eye mask.
+3. Temperature: don’t overheat, it causes nightmares. 70°F (20°C) seems to be the most comfortable for most people. This varies of course between person, blanket thickness, and choice of pajamas.
+4. Exercise during the day helps you fall asleep much faster.
+5. Pursue a state of calmness. Have a wind-down activity before bed like playing the piano, reading, taking a bath, or journaling. Listen to meditation before sleeping if you’re feeling negative emotions or want to quiet the mind.
+6. Don’t consume caffeine in the afternoon.
+7. Don’t eat, nap, or exercise late into the evening.
+8. Have a regular schedule. This will help to fall asleep quicker and ensure that you’re not fatigued in the morning. It also offers better long term health outcomes due to regulating circadian rhythm.
+9. Have a cue for when it’s bedtime. For example a bedtime routine of a warm shower, unwinding, reading in bed, etc. This shortens the amount of time it takes to fall asleep.
+10. Seek out adequate room oxygen levels. This is good for your health in general to maintain sufficient oxygen saturation in your blood. Ensure that there is circulation of air from vents or a cracked open window. Sleep apnea is when you have obstructed breathing and you don’t get enough oxygen when you sleep. The most common treatment is a CPAP machine, a mask you put on when you sleep to aid in breathing. If you often feel daytime sleepiness or have loud snoring, then it is good to get checked. “It is now estimated that 26 percent of adults between the ages of 30 and 70 years have sleep apnea.”
+    ([Source](https://aasm.org/rising-prevalence-of-sleep-apnea-in-u-s-threatens-public-health/#:~:text=It%20is%20now%20estimated%20that,70%20years%20have%20sleep%20apnea.)).
