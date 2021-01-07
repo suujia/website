@@ -1,0 +1,13 @@
+---
+layout: post
+title: Music
+date: 2020-12-13 15:01:35 +0300
+image: "/images/album.jpg"
+tags: [Music]
+featured: true
+---
+
+Making music has been my most fulfilling and captivating hobby project yet. So far I have worked with my music producer and have about 8 songs, with many more revisions to go. Goal is to release a few songs this year.
+
+In the meantime, here's a quick tiktok cover of me singing! :)
+https://www.tiktok.com/@susiechen/video/6882554425118903558
