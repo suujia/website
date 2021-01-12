@@ -6,12 +6,13 @@ permalink: /readings/
 
 # Bookshelf
 
-### Books I've enjoyed or have shaped me. Or both :)
+### Books I've enjoyed, shaped me, or both :)
 
+- Atomic Habits
 - Attached
+- 21 Lessons in the 21st Century
 - The Art of Strategy
 - The Ride of A Lifetime
-- Extreme Ownership
 - The Messy Middle
 - Fountainhead
 - When Breath Becomes Air
@@ -30,6 +31,7 @@ permalink: /readings/
 - 4 Hour Work Week
 - Unshakeable
 - Awaken the Giant Within
+- Flash Boys: A Wall Street Revolt
 - Green for Life
 - The Art of War
 - Man's Search for Meaning
@@ -48,11 +50,13 @@ permalink: /readings/
 - How to Win Friends and Influence People
 - Grinding It Out: The Making of McDonald's
 - Made in America (Sam Walton)
+- Think and Grow Rich 
+- Rich Dad and Poor Dad
 - Eat, Pray, Love
 - The Faults in our Stars
 - Life of Pi
 
-## My Favourite Articles
+## Some Favourited Articles
 
 - [Optionality](https://www.thecrimson.com/article/2017/5/25/desai-commencement-ed/) - on optimizing for optionality vs committing
 - [10X: Metrics for Early Stage Startups](https://dcgross.com/10X/) - mini playbook on getting products from 0 to 1
@@ -64,6 +68,8 @@ permalink: /readings/
 - YCombinator
 - How I Built This
 - Tech Buzz China
+- The a16z Podcast
+
 
 ## Quotes
 
