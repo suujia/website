@@ -7,36 +7,38 @@ permalink: /readings/
 # Bookshelf
 
 ### Books I've enjoyed, shaped me, or both :)
+Asterisks for the ones I highly recommend
 
-- Atomic Habits
+- Antifragile *
+- Atomic Habits *
 - Attached
 - 21 Lessons in the 21st Century
 - The Art of Strategy
 - The Ride of A Lifetime
 - The Messy Middle
-- Fountainhead
-- When Breath Becomes Air
-- The Hard Thing About Hard Things
+- Fountainhead *
+- When Breath Becomes Air *
+- The Hard Thing About Hard Things *
 - Angel: How to Invest in Technology Startups (Relevant [post](https://calacanis.com/2020/03/27/now-is-the-best-time-to-be-an-angel-investor-let-me-show-you-how/) by author)
 - Trillion Dollar Coach
 - On the Shortness of Life
-- Shoe Dog
+- Shoe Dog *
 - Mastery
 - To Live
-- Homos Deus
+- Homos Deus *
 - Deep Work
 - Principles
-- The Almanack of Naval Ravikant
+- The Almanack of Naval Ravikant *
 - 7 Habits of Highly Effective People
 - 4 Hour Work Week
 - Unshakeable
 - Awaken the Giant Within
 - Flash Boys: A Wall Street Revolt
 - Green for Life
-- The Art of War
+- The Art of War *
 - Man's Search for Meaning
 - Love Market: The Economics of Sex and Love
-- Elon Musk
+- Elon Musk *
 - Steven Jobs
 - Outliers
 - Freakonomics
@@ -47,7 +49,7 @@ permalink: /readings/
 - Lean In
 - Pride and Prejudice
 - The Intelligent Investor
-- How to Win Friends and Influence People
+- How to Win Friends and Influence People *
 - Grinding It Out: The Making of McDonald's
 - Made in America (Sam Walton)
 - Think and Grow Rich 
