@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On Procrastination
+title: On Productivity
 date: 2020-12-17 21:01:35 +0300
 image: "/images/work.jpeg"
 tags: [Productivity, Self Improvement]
@@ -11,7 +11,7 @@ featured: true
 >
 > <cite>Steven Pressfield</cite>
 
-I’ve struggled for it for a while, and therefore spent a while educating myself on this topic. Here are a few things that have helped me the most over the years.
+I’ve experimented with a lot of systems to bring out the most work and creativity in me for the past few years. Along with researching a lot on this topic. This is the list of systems that work the best for me.
 
 **1. Prioritize Daily 3:** Determine 1-3 most important tasks for the day. Feel accomplished and decrease in stress after finishing these. Not getting an important tasks done in a day causes regret, negative self talk, anxiety, etc.
 
@@ -21,7 +21,11 @@ I’ve struggled for it for a while, and therefore spent a while educating mysel
 
 **4. Focus, Productivity, and Adequate Sleep:** there was a period of time where I tried to be Elon Musk and I didn't sleep very much and used coffee to prop me up. I ended up zoning out in class and conversations, dread whatever it is I have to do first thing in the morning because I hate waking up with an alarm, I get mad or upset easier, the fatigue made me watch a lot of Youtube, and finally I couldn't concentrate nor had nearly as much mental willpower to continue working on hard problems. Staying up late to finish my work perpetuates this cycle. This occured for an entire semester and I ended up with acne all over my face as well; needless to say it was my least functioning semester ever. Anywho, turns out I'm not built like Musk at all, as with most people. I've experimented and learned now that sleep helps me to be 10x more productive the next day: sustained focus, good mood, creativity, less social media time, and mental clarity. I've attached the tips on how to get good sleep below.
 
-**5. Break the procrastination habit cycle:** Talk to yourself like you would an employee, not a slave: motivating, kind, and fair. Here is the sequence of events that occurs with procrastination and without. Break the cycle and start being kinder to yourself.
+**5. Never lose momentum:** The most successful projects or periods I've had were when I've worked on the same project a little bit every day, or at minimum once a week. Once you drop the ball, it is extremely hard to pick it back up again. Also keeping an average person's forgetting curve in mind, when you stop working on something it is very effortful to try to remember back all the context, details, and information required to get something done again. Also, when you always have this project fresh in your mind, you tend to think about it even when you're not workign on it. For example, when writing an article, I walk around or do random unrelated things and sometimes a new idea or perspective pops in my head and I jot it down; I essentially contribute to the article throughout a period of time, and never in one sitting. In group projects, recurring meetings or updates are essential for moving the project forward, keeping everyone on the same page, and keeping people accountable for what they said they'd do the previous week.
+
+<img src="/../../images/forgetting-curve.jpeg">
+
+**6. Break the procrastination habit cycle:** Talk to yourself like you would an employee, not a slave: motivating, kind, and fair. Here is the sequence of events that occurs with procrastination and without. Break the cycle and start being kinder to yourself.
 
 <img src="/../../images/do-it-now.png">
 > <cite>Screenshot from The Procrastination Workbook by William Knaus</cite>
@@ -34,11 +38,11 @@ I’ve struggled for it for a while, and therefore spent a while educating mysel
 
 **2. How to Sleep Well:**
 
-1. Live somewhere quiet. Noise makes it harder to fall asleep and may wake you up many times throughout the night.
+1. Live somewhere quiet. Noise makes it harder to fall asleep and may wake you up many times throughout the night. Earplugs, if you can't move or if the noise is your partner.
 2. Darken the room. Once you go dark you can’t go back. It allows night owls to sleep in and get enough sleep because it prevents getting woken up prematurely in the morning when the sun makes it into your room. Not to mention that it is easier to fall asleep. Install blackout curtains or an eye mask.
 3. Temperature: don’t overheat, it causes nightmares. 70°F (20°C) seems to be the most comfortable for most people. This varies of course between person, blanket thickness, and choice of pajamas.
-4. Exercise during the day helps you fall asleep much faster.
-5. Pursue a state of calmness. Have a wind-down activity before bed like playing the piano, reading, taking a bath, or journaling. Listen to meditation before sleeping if you’re feeling negative emotions or want to quiet the mind.
+4. Exercise during the day helps you fall asleep much faster. It decreases anxious or negative feelings that keep you awake in bed. The onset of work from home cause a huge decrease in exercise in many people and it really shows in the mental health of individuals. In a work from home world, I have a mini bike underneath my desk to keep me awake and moving like a hamster on its wheel. I have seen incredible experiences and results from people walking on their treadmills underneath their standing desk as well.
+5. Calmness before bed. Have a wind-down activity before bed like playing the piano, reading, taking a bath, or journaling. Listen to meditation before sleeping if you’re feeling negative emotions or want to quiet the mind. Watching or reading intense stories, and working intensely on my projects elevate my heart rate and it tends to keep me wide awake, so I try to avoid that.
 6. Don’t consume caffeine in the afternoon.
 7. Don’t eat, nap, or exercise late into the evening.
 8. Have a regular schedule. This will help to fall asleep quicker and ensure that you’re not fatigued in the morning. It also offers better long term health outcomes due to regulating circadian rhythm.
