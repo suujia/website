@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Overcorrection
-date: 2020-12-17 21:01:35 +0300
+date: 2021-02-06 18:34:04 +0300
 image: '/images/need.jpg'
 tags: [Therapy, Self Improvement]
 featured: true
