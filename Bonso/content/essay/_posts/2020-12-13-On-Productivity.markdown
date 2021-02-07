@@ -48,3 +48,13 @@ I’ve experimented with a lot of systems to bring out the most work and creativ
 8. Taking melotonin. (However, full disclosure I do not personally take it)
 9. Seek out adequate room oxygen levels. This is good for your health in general to maintain sufficient oxygen saturation in your blood. Ensure that there is circulation of air from vents or a cracked open window. Sleep apnea is when you have obstructed breathing and you don’t get enough oxygen when you sleep. The most common treatment is a CPAP machine, a mask you put on when you sleep to aid in breathing. If you often feel daytime sleepiness or have loud snoring, then it is good to get checked. “It is now estimated that 26 percent of adults between the ages of 30 and 70 years have sleep apnea.”
    ([Source](https://aasm.org/rising-prevalence-of-sleep-apnea-in-u-s-threatens-public-health/#:~:text=It%20is%20now%20estimated%20that,70%20years%20have%20sleep%20apnea.)).
+
+**3. Working in Flow:**
+
+We tend to be far more productive when we get into a state of flow (aka being in the zone). Here's how you get into flow state
+
+1. No distractions: of people, of phone (put it in another room), of notifications (do not disturb mode), of sound (noise cancelling headphones), of impending meetings
+2. Calm or lowfi music. Some of my fav lowfis: [romance](https://www.youtube.com/watch?v=wdURsDPlMrU), [i will wait for you](https://www.youtube.com/watch?v=l5m4pUJ9_qc), and a [study with me video](https://www.youtube.com/watch?v=R7roE5u2fhk). Or chill song of the week I happen to keep on repeat for hours for example: [dead man walking](https://www.youtube.com/watch?v=pBR01ndtids&list=RDuCPjdfCUowg&index=8), [yuyu](https://www.youtube.com/watch?v=9RWxqTMgiQ4), and [when i was older](https://www.youtube.com/watch?v=0I4fD49Gbck).
+3. Don't be too full. Eating too much means food coma, but it may depend on what you eat.
+4. Start the session with a clear goal and some idea of execution to get there.
+5. Positive reinforcement throughout the task perhaps because it's somethign you're good at, it's working, you see progress, etc
