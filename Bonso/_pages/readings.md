@@ -9,8 +9,10 @@ permalink: /readings/
 ### Books I've enjoyed, shaped me, or both :)
 Asterisks for the ones I highly recommend
 
+- Think like a Freak
+- Feeling Good (On Cognitive Behavior Therapy) *
+- Skin in the Game *
 - Antifragile *
-- Atomic Habits *
 - Attached
 - 21 Lessons in the 21st Century
 - The Art of Strategy
