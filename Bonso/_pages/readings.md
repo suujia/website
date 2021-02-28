@@ -9,15 +9,18 @@ permalink: /readings/
 ### Books I've enjoyed, shaped me, or both :)
 Asterisks for the ones I highly recommend
 
+## 2021
+- The Moment of Lift
+- Superfreakonomics
 - Think like a Freak
 - Feeling Good (On Cognitive Behavior Therapy) *
 - Skin in the Game *
 - Antifragile *
 - Attached
 - 21 Lessons in the 21st Century
-- The Art of Strategy
+
+## Prior
 - The Ride of A Lifetime
-- The Messy Middle
 - Fountainhead *
 - When Breath Becomes Air *
 - The Hard Thing About Hard Things *
