@@ -65,21 +65,8 @@ Asterisks for the ones I highly recommend
 
 ## Some Favourited Articles
 
-- [Optionality](https://www.thecrimson.com/article/2017/5/25/desai-commencement-ed/) - on optimizing for optionality vs committing
 - [10X: Metrics for Early Stage Startups](https://dcgross.com/10X/) - mini playbook on getting products from 0 to 1
 - [The Perfect Decision Fallacy](https://www.trevormckendrick.com/essays/the-perfect-decision-fallacy) - on making big decisions or reaching big goals (tldr: think of it instead as a series of small decisions along the way and that there are very many ways to get there)
+- [Productivity Shame](https://blog.rescuetime.com/productivity-shame/?utm_source=onboarding&utm_medium=site&utm_campaign=signup_personalization)
+- [Optionality](https://www.thecrimson.com/article/2017/5/25/desai-commencement-ed/) - on optimizing for optionality vs committing
 
-## Podcasts
-
-- Venture Stories
-- YCombinator
-- How I Built This
-- Tech Buzz China
-- The a16z Podcast
-
-
-## Quotes
-
-> The secret to accomplishing impressive things: Do not give yourself a way out. Either you do it, or you don't and you should keep working at it.
->
-> <cite>Alexandr Wang</cite>
