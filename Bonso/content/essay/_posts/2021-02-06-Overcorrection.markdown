@@ -7,7 +7,9 @@ tags: [Therapy, Self Improvement]
 featured: true
 ---
 
-There are certain things that we do or care about more so than the average person. When we have experienced an extremely painful or negative event, we tend to avoid it as much as possible in our future. However, like a pendulum we overcorrect.
+There are things we do or care about more so than the average person. When an extremely painful or negative event, we do everything we can to make sure we don't feel that way again in our future. We protect ourselves and build walls around us. However, like a pendulum we overcorrect. 
+
+There are also things we instinctively tip toe around or even avoid like the plague, even though it is usually harmless. We often do so without a conscious decision but merely we got shaped by our past positive or negative experiences, herding us like sheep. What I want to encourage you to try doing is to make your behavior conscious.
 
 ### Concrete examples of overcorrection in human behavior
 
@@ -18,4 +20,4 @@ There are certain things that we do or care about more so than the average perso
     * You didn't have much control in the past, for example having strict parents, you will seek control in your future
     * People that didn't have very much money in the past and come into money can spend exessively to overcorrect for the poor lifestyle in the past or never want to spend it to ensure they never go back to the way they had it before
 
-In tracing back to the origins of current our habits or values, we can earn a deeper understanding of ourselves and then change or accept ourselves accordingly. By understanding others this way, we can be more compassionate to them, because we know that they behave or believe in such a way because of their unique past.
+In tracing back to the origins of current our habits or values, we can reassess it against the backdrop of the present. If I've always avoided X throughout my life, and it is because of an experience in my past, at my current point of life I can reassess this decision to see if this fear is logical. Does my perceptino of it align with reality? As we acquire more information, we are allowed to change our minds. What we've said in the past, doesn't have to hold if the facts, times, situation have changed. By seeing how we act through the lens of it's source, we can also accept ourselves fully more easily and not have to blame ourselves for our shortcomings. And know that we are maleable. By understanding others this way, we can be more compassionate to them, because we know that they behave or believe in such a way because of their unique past.
