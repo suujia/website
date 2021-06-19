@@ -75,6 +75,7 @@ The point of speaking is so the intended person will hear it and understand you.
 - Avoiding overgeneralizations: "you always do this!" or "i never do that"
 - Focusing more on how you feel, rather than what the other person did. Instead of shouting "I can't believe you did that!", say "I really don't like it when you **\_**, it makes me feel \_\_\_".
 - Focus on how the other person feels and the reasoning behind their actions.
+- Knowing that at the end of the day, no one has control or power over anyone else. On top of that, no one can make you feel a certain way if you don't allow it. You choose how you react 
 
 Another related concept is Assertive Communication. It is directly telling someone your needs and beliefs, but doing so in a way that respects the other person. Neglecting your own needs builds resentment over time. Overly aggressive communication can lead to damaging the relationship.
 Another related concept is the [Pursuer-Distancer Pattern](https://accesscm.org/wp-content/uploads/2013/03/Pursuer-Distancer-Pattern.pdf), a common pattern in relationships where one likes to withdraw from arguments and the other likes to force communication.
@@ -91,7 +92,7 @@ Relationship therapy will help you and your partner to understand each other, im
 
 Like training for a new job, relationship therapy is like training to interact with each other.
 
-- Each person has their own ways of showing and feeling loved, see [love languages](https://www.mindbodygreen.com/articles/the-5-love-languages-explained). The 5 types are: acts of service, words of affirmation, gifts, quality time spent together, and touch. Knowing yours and your partners and acting accordingly to make each other feel loved will improve relationship morale dramatically.
+- Each person has their own ways of showing and feeling loved, see [love languages](https://www.mindbodygreen.com/articles/the-5-love-languages-explained). The 5 types are: acts of service, words of affirmation, gifts, quality time spent together, and touch. Knowing yours and your partners and acting accordingly to make each other feel loved will improve relationship morale dramatically. Even if you think you're showing love, if you are not showing it in the way your partner would prefer/feel loved receiving it, they may not feel it
 - Each person has their own [attachment styles](https://www.attachmentproject.com/blog/four-attachment-styles/), learned from their caregivers. It is useful to read how it impacts how you interact with each other. It is shocking how accurately it explains how different attachment styles interact with each other. A great book on this is [Attached](https://www.amazon.com/Attached-Science-Adult-Attachment-YouFind/dp/1585429139/ref=sr_1_1?dchild=1&keywords=attached&qid=1609552197&sr=8-1)
 - With feelings of jealousy or distance, focus on strengthening the relationship.
 - Individuals need alone time sometimes, seeing anyone too much leads to some friction. Take time away from each other to look forward to seeing each other.
