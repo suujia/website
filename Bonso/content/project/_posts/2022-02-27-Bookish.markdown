@@ -1,0 +1,22 @@
+---
+layout: post
+title: Bookish
+date: 2022-02-27 15:01:35 +0300
+image: '/images/bookish.png'
+tags: [Projects]
+featured: true
+---
+
+https://bookish.fyi/
+
+As the world is becoming increasingly noisy, how do you curate the best information available?
+
+I'm currently building an application with the mission of curating the most useful content on the internet. Here are some principles I've hypothesized could help find only the highest quality information, all of which have informed the design of Bookish.
+
+1. The information is "Evergreen". A platform that focuses on knowledge rather than ephemeral news type content
+2. Wisdom of the Crowd: many people collaborate on the same notebook so that sufficient verification or peer-review has occured
+3. The knowledge base quality improves over time as more people look at it and contribute to it.
+
+Starting off by allowing imports existing content from sources that are usually untapped: google docs and sheets.
+
+The app is built with Postgres, Express, ReactJS, and NodeJS.

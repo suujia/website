@@ -1,19 +1,9 @@
 ---
 layout: page
-title: Readings
-permalink: /readings/
+title: About
+permalink: /about/
 ---
 
-# Bookshelf
+Hello, I'm Susie Chen! I grew up in Vancouver, moved to SF Bay Area to work at Facebook, and now I am just bouncing around different cities or spending my time in NYC. I love working on creative projects including building apps, painting, writing, and making music! I graduated from University of British Columbia in Cognitive Systems, which is just a bunch of psychology and computer science classes. Feel free to reach out to chat or collaborate.
 
-Add me on Goodreads! https://www.goodreads.com/soosiesays
-
-## Some Favourited Articles
-
-- [10X: Metrics for Early Stage Startups](https://dcgross.com/10X/) - mini playbook on getting products from 0 to 1
-- [The Perfect Decision Fallacy](https://www.trevormckendrick.com/essays/the-perfect-decision-fallacy) - on making big decisions (tldr: think of it instead as a series of small decisions along the way and that there are very many ways to get to the same ending)
-- [Persisting in Face of Rejection](https://schlaf.me/rejection/)
-- [Productivity Shame](https://blog.rescuetime.com/productivity-shame)
-- [Optionality](https://www.thecrimson.com/article/2017/5/25/desai-commencement-ed/) - on optimizing for optionality vs committing
-- [Paul Graham Essays](http://paulgraham.com/articles.html) - a staple
-
+Get to know me by seeing [what I read](https://www.goodreads.com/soosiesays), hearing [me sing](https://www.tiktok.com/@susiechen/video/6882554425118903558), or reading [what I tweet](https://twitter.com/soosiesays).
