@@ -3,7 +3,7 @@
 # General Site Settings
 title: soosie
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Hi, I'm Susie Chen, a programmer by day and a writer + singer by night. I love trying new things and pursuing creative projects.
+description: 
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "" # The base hostname & protocol for your site, e.g. http://example.com
 
